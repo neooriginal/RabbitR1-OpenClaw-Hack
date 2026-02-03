@@ -5,7 +5,7 @@ A standalone, reverse-engineered implementation of the **Rabbit R1 OpenClaw Gate
 ## Installation
 
 ```bash
-npm install rabbit-r1-lib
+npm install github:neooriginal/RabbitR1-OpenClaw-Hack
 ```
 
 ## Quick Start
