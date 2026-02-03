@@ -1,0 +1,23 @@
+{
+    "name": "rabbit-r1-lib",
+    "version": "1.0.0",
+    "description": "A reverse-engineered OpenClaw gateway implementation for the Rabbit R1 device.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "rabbit",
+        "r1",
+        "openclaw",
+        "gateway",
+        "reverse-engineering"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "ws": "^8.16.0",
+        "uuid": "^9.0.1",
+        "qrcode": "^1.5.3"
+    }
+}
